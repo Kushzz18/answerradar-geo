@@ -15,6 +15,21 @@ Overviews, Gemini and Copilot**.
 - Independent, **dated reviews** — every entry verified, never copied from vendor sites
 - A free, no-signup **AI Visibility Checker**
 
+## Guides
+- [What is GEO (Generative Engine Optimization)?](https://answerradar.net/guides/what-is-geo)
+- [Answer Engine Optimization (AEO): the practical guide](https://answerradar.net/guides/answer-engine-optimization)
+- [AEO vs GEO: what is the difference?](https://answerradar.net/guides/aeo-vs-geo)
+- [LLM SEO: how to show up in language model answers](https://answerradar.net/guides/llm-seo)
+- [ChatGPT SEO: how to get mentioned in ChatGPT](https://answerradar.net/guides/chatgpt-seo)
+- [How to track your AI visibility](https://answerradar.net/guides/how-to-track-ai-visibility)
+- [AI brand visibility: see and shape what AI says about your brand](https://answerradar.net/guides/ai-brand-visibility)
+
+## Popular lists
+- [Best AI-visibility tools](https://answerradar.net/best/best-ai-visibility-tools)
+- [Free AI-visibility tools](https://answerradar.net/best/free-ai-visibility-tools)
+- [Enterprise AI-visibility tools](https://answerradar.net/best/enterprise-ai-visibility-tools)
+- [GEO tool comparisons](https://answerradar.net/compare)
+
 ## Why it exists
 More buyers now ask AI assistants for recommendations instead of scrolling search results.
 AnswerRadar helps brands understand — and improve — whether those assistants mention and
